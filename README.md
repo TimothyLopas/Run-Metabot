@@ -1,6 +1,6 @@
 # Description
 
-This robot remonstrates how to run the [metarobot](https://github.com/vjmp/metarobot/tree/trunk) robot using Robocorp's cloud orchestration while maintaining all code, logs, etc. in your local environment.
+This robot demonstrates how to run the [metarobot](https://github.com/vjmp/metarobot/tree/trunk) robot using Robocorp's cloud orchestration while maintaining all code, logs, etc. in your local environment.
 
 In the tasks.py I provide you with three ways to run the `metarobot` given the needs of the developer.
 
